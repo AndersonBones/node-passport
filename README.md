@@ -1,6 +1,6 @@
 # auth-system
 
-Sistema de autenticação de usuário utilizando Passport com JWT Strategy
+Sistema de autenticação de usuário utilizando Passport com JWT Strategy e MongoDB para o armazenamento de usuários 
 
 ### Requisitos Globais
 `npm install -g ts-node typescript nodemon`
